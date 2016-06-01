@@ -2,7 +2,7 @@
 
 Simple mood lamp controller with three PWM channels, max 100 mA output pr channel. Uses the AVR ATmega8 microcontroller.
 
-![Mood light #1](https://files.uctrl.net/github/modules/12.jpeg)
+![Mood light #1](https://cdn.uctrl.net/github/modules/12.jpeg)
 
 Written in basic, using [Bascom-AVR](http://www.mcselec.com/).
 
