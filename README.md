@@ -1,10 +1,10 @@
-## Source code for project: [Mood light #1](https://www.uctrl.net/p/12)
+## Source code for project: [Mood light #1](https://uctrl.io/p/12)
 
 Simple mood lamp controller with three PWM channels, max 100 mA output pr channel. Uses the AVR ATmega8 microcontroller.
 
-![Mood light #1](https://cdn.uctrl.net/github/modules/12.jpeg)
+![Mood light #1](https://uctrl.io/images/medium/537)
 
 Written in basic, using [Bascom-AVR](http://www.mcselec.com/).
 
 ### Author
-[Thomas Jensen](https://www.uctrl.net/@hebron)
+[Thomas Jensen](https://uctrl.io/@hebron)
